@@ -73,10 +73,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noorichsanhermawan&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iksnn&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
-> Replace `noorichsanhermawan` above with your actual GitHub username for the stats cards to render correctly.
 
 ---
 
