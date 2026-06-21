@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Noor Ichsan Hermawan 👋</h1>
-<h3 align="center">Fresh Graduate | Aspiring Data Scientist & Web Developer</h3>
+<h3 align="center">Entry-Level Data Scientist & Web Developer | Informatics Engineering Graduate</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=noorichsanhermawan&label=Profile%20Views&color=blue&style=flat" alt="profile views" />
@@ -14,7 +14,7 @@
 - **Education:** M.Kom. in Informatics Engineering, **Universitas Budi Luhur** — GPA **3.74/4.00**
 - **Career Focus:** Entry-level professional passionate about **Data Science**, **Data Analysis**, and **Machine Learning**
 - **Currently:** Sharpening my skills in data-driven problem solving and full-stack web development
-- **Interests:** Turning messy, unstructured data into actionable insights — and building clean, performant web applications along the way
+- **Interests:** Turning messy, unstructured data into actionable insights and building clean, performant web applications along the way
 - **Reach me:** see the *Connect with Me* section below!
 
 ---
