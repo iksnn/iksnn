@@ -9,33 +9,33 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-- 🎓 **Education:** B.Sc. in Informatics Engineering, **Universitas Budi Luhur** — GPA **3.74/4.00**
-- 🔭 **Career Focus:** Entry-level professional passionate about **Data Science**, **Data Analysis**, and **Machine Learning**
-- 🌱 **Currently:** Sharpening my skills in data-driven problem solving and full-stack web development
-- 💡 **Interests:** Turning messy, unstructured data into actionable insights — and building clean, performant web applications along the way
-- 📫 **Reach me:** see the *Connect with Me* section below!
+- **Education:** M.Kom. in Informatics Engineering, **Universitas Budi Luhur** — GPA **3.74/4.00**
+- **Career Focus:** Entry-level professional passionate about **Data Science**, **Data Analysis**, and **Machine Learning**
+- **Currently:** Sharpening my skills in data-driven problem solving and full-stack web development
+- **Interests:** Turning messy, unstructured data into actionable insights — and building clean, performant web applications along the way
+- **Reach me:** see the *Connect with Me* section below!
 
 ---
 
-## 🧪 Experience & Key Projects
+## Experience & Key Projects
 
-### 🏛️ Data Science Intern — Ministry of Finance (Directorate General of Fiscal Balance)
+### Data Science Intern — Ministry of Finance (Directorate General of Fiscal Balance)
 *March 2025 – July 2025*
 - Developed an **OCR prototype** using **Python** and **Tesseract** to automate the evaluation of regional regulation documents.
 - Contributed to streamlining manual document review processes through automation.
 
-### 📚 Independent Studies & Training
+### Independent Studies & Training
 - **MSIB Kampus Merdeka** — Data Science Training at **Celerates**
 - **Kominfo IT Training Program**
 
-### 🌐 Web Development Project
+### Web Development Project
 - Built a **company profile website** for a Bali-based contractor, with a strong focus on **SEO optimization** and **Core Web Vitals** performance.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
 **Programming Languages**
 
@@ -65,31 +65,31 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=noorichsanhermawan&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=noorichsanhermawan&theme=tokyonight" alt="GitHub Streak" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=iksnn&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iksnn&theme=tokyonight" alt="GitHub Streak" height="165" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noorichsanhermawan&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
-> 💡 Replace `noorichsanhermawan` above with your actual GitHub username for the stats cards to render correctly.
+> Replace `noorichsanhermawan` above with your actual GitHub username for the stats cards to render correctly.
 
 ---
 
-## 🤝 Connect with Me
+## Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-linkedin-handle" target="_blank">
+  <a href="linkedin.com/in/nichsan01/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="ichsan0333@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://your-portfolio-link.com" target="_blank">
+  <a href="[https://your-portfolio-link.com](https://noorichsanhermawan-portofolio.vercel.app/)" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
