@@ -88,7 +88,7 @@
   <a href="ichsan0333@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="[https://your-portfolio-link.com](https://noorichsanhermawan-portofolio.vercel.app/)" target="_blank">
+  <a href="https://noorichsanhermawan-portofolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
